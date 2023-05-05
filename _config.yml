@@ -1,9 +1,9 @@
 title: Zita Martins # your name (or website title) here
 logo: "/images/Zita.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  FOOD & DATA SCIENTIST  
+  <p align="justify"> FOOD & DATA SCIENTIST </p>
   <br><br>
-  PhD in Sustainable Chemistry | Degree in Nutritional Sciences | BSc in Astrononomy 
+  <p align="justify"> PhD in Sustainable Chemistry | Degree in Nutritional Sciences | BSc in Astrononomy  </p>
   <br><br>
   - Started and implemented a data science thematic line in the FOODinteract Research Team.
   <br><br>
