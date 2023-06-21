@@ -4,7 +4,7 @@
 
 ### Selected projects in Data Science 
 
-[Project 1 Title](/sample_page)
+[Mycotoxins’ Prevalence in Food Industry By-Products](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
